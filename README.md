@@ -10,11 +10,3 @@ I'm an aspiring developer building my version of the digital world one step at a
   <a href="https://github.com/diogoazevedoo?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/diogoazevedoo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-
-#
-
-### 📊 Stats
-
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoazevedoo&show_icons=true&theme=gruvbox)
-
-#
